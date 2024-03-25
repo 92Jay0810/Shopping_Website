@@ -1,0 +1,26 @@
+body{
+    background-color: #BACDB0;
+}
+.navbar-brand {
+    font-size: 25px; 
+}
+.navbar-nav .nav-link {
+    font-size: 20px; 
+  }
+.card {
+    margin-bottom: 20px;
+  }
+.card-img-top {
+    min-width: 100%;
+    max-width: 100%;
+    min-height: 300px;
+    max-height: 30px;
+}
+.card-text{
+    color: #337CA0;
+    font-weight: 800;
+}
+.card-title{
+    font-weight: 1000;
+    font-size: large;
+}
